@@ -1,0 +1,11 @@
+The select folder option is where the files
+you backup go
+
+The select backup folder is the folder which
+is getting copied
+
+The begin backup button begins the backup
+proccess
+
+The time it takes to complete the backup
+depends on the size of the files
